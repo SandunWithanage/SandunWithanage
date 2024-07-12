@@ -2,6 +2,16 @@
 Welcome to my GitHub profile!
 
 <!--
+
+push for main branch
+
+in terminal,
+git clone https://github.com/SandunWithanage/SandunWithanage.git (link from repostery)
+pwd (path)
+ls
+
+code SandunWithanage (open vs code of repostery)
+
 git ststus
 (git diff)
 git add README.md
