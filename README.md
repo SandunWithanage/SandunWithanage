@@ -1,7 +1,23 @@
 ## Sandun Withanage
-welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 <!--
+
+push for main branch
+
+in terminal,
+git clone https://github.com/SandunWithanage/SandunWithanage.git (link from repostery)
+pwd (path)
+ls
+
+code SandunWithanage (open vs code of repostery)
+
+git ststus
+(git diff)
+git add README.md
+git commit -m "Update README.md with a welcome message"
+git push
+
 **SandunWithanage/SandunWithanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
