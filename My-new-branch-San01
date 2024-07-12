@@ -22,6 +22,12 @@ git ststus
 
 git branch (for search location )
 (git diff)
+
+if display error = has no upstream branch.
+    git fetch origin
+    git merge origin/My-new-branch-San01
+
+
 git add .
 git commit -m "Update README.md" (comment)
 git push or push -u origin branch-name
