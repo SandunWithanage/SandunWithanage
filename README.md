@@ -16,7 +16,12 @@ git ststus
 (git diff)
 git add README.md
 git commit -m "Update README.md with a welcome message"
-git push
+git push or push -u origin main
+
+
+can create branches form gitHub and terminal/githubdeckstop/soursetree localy(this not visible untill push branch)
+
+
 
 **SandunWithanage/SandunWithanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
