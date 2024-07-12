@@ -22,7 +22,7 @@ git ststus
 
 git branch (for search location )
 (git diff)
-git add.
+git add .
 git commit -m "Update README.md" (comment)
 git push or push -u origin branch-name
 
