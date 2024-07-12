@@ -2,7 +2,8 @@
 Welcome to my GitHub profile!
 
 <!--
-
+git ststus
+(git diff)
 git add README.md
 git commit -m "Update README.md with a welcome message"
 git push
