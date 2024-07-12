@@ -2,6 +2,11 @@
 welcome to my GitHub profile!
 
 <!--
+
+git add README.md
+git commit -m "Update README.md with a welcome message"
+git push
+
 **SandunWithanage/SandunWithanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
