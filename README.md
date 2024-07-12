@@ -1,5 +1,5 @@
 ## Sandun Withanage
-welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 <!--
 
